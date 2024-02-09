@@ -1,0 +1,17 @@
+.card{
+    width:600px;
+    margin-top: 16px;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .head{
+    background-color: #00ffff47;
+    height: fit-content;
+    padding: 6px;
+  }
+  .cb{
+    background-color: #7fffd461;
+    height: fit-content;
+    padding: 6px;
+  }
